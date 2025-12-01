@@ -1,5 +1,9 @@
 # Collaborative Intelligence Component
 
+![Best Paper Award](https://img.shields.io/badge/Best%20Paper%20Award-2025-blue.svg)
+
+![Best Paper Diploma](best-paper.jpg)
+
 The **Collaborative Intelligence Component** is a web-based application designed to demonstrate an AI-assisted decision-making system at the **Edge**. It integrates **human and machine intelligence** to curate model results collaboratively and provides seamless recalibration of AI models hosted at the edge with a single click. The tool can also automatically generate additional training data using an LLM, based on expert-curated positive and negative examples what is useful when original data is limited.
 
 **Watch our new video in YouTube**
@@ -78,6 +82,8 @@ To connect to an MQTT broker, create a `config.json` file:
 - A CSV file for data import.
 
 ## Citation
+This repository provides the code for the paper **An Agentic Framework for Rapid Deployment of Edge AI Solutions in Industry 5.0**, which received a Best Paper Award at PRO-VE, 2025.
+
 If you find this work useful, please cite:
 
 ```
